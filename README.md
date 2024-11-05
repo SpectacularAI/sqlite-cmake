@@ -1,2 +1,7 @@
 # sqlite-cmake
-sqlite with cmake build
+
+CMake build for SQLite amalgamation.
+
+# Links
+
+* SQLite home page (see for docs, new releases etc.) https://www.sqlite.org/
